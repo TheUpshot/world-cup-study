@@ -33,7 +33,6 @@ Language: Spanish
 Dates: May 20 to May 28, 2014  
 Sample size: 1,006  
 Panel: NetQuest  
-
 Note: *Respondents are based just in urban areas*
 
 #### Colombia
@@ -41,7 +40,6 @@ Language: Spanish
 Dates: May 20 to May 23, 2014  
 Sample size: 1,007  
 Panel: GMI  
-
 Note: *Respondents tend to be based just in urban areas*
 
 #### Costa Rica
@@ -49,7 +47,6 @@ Language: Spanish
 Dates: May 20 to May 29, 2014  
 Sample size: 518  
 Panel: NetQuest  
-
 Note: *Respondents are based just in urban areas*
 
 #### England
@@ -93,7 +90,7 @@ Language: Spanish
 Dates: May 21 to May 23, 2014  
 Sample size: 1,004  
 Panel: GMI  
-insNote: *Respondents tend to be based just in urban areas*
+Note: *Respondents tend to be based just in urban areas*
 
 #### Netherlands
 Language: Dutch  
